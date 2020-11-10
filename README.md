@@ -1,2 +1,2 @@
 # simple-python-projects
-simple python apps
+Simple Python apps
