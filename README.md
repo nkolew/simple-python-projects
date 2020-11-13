@@ -2,5 +2,3 @@
 
 Simple Python apps
 
-
-testing pull requests
