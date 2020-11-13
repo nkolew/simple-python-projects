@@ -28,10 +28,10 @@ def check_guess(mylist, guess):
 mylist = [' ', 'O', ' ']
 
 # SHUFFLE LIST
-mixedup_list = shuffle_list(mylist)
+shuffled_list = shuffle_list(mylist)
 
 # USER GUESS
 guess = player_guess()
 
 # CHECK GUESS
-check_guess(mixedup_list, guess)
+check_guess(shuffled_list, guess)
