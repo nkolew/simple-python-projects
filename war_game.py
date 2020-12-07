@@ -1,3 +1,8 @@
+'''
+Card game 'WAR'
+'''
+
+
 from random import shuffle
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
 ranks = ('Two', 'Three', 'Four', 'Five', 'Six', 'Seven',
